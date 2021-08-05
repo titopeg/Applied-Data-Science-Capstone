@@ -1,6 +1,6 @@
-#The Battle of Neighborhoods
-##Applied Data Science Capstone
-###Introduction
+# The Battle of Neighborhoods
+## Applied Data Science Capstone
+### Introduction
 
 This proyect will find the best place for Mexicans to live in Toronto, Canada. Specifically, this report will be targeted to stakeholders interested in immigrating from Mexico City, Mexico to Toronto, Canada.
 
